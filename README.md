@@ -8,3 +8,7 @@
 🔭 Exploring 👁️ computer vision & 🗣️ natural language processing.</br>
 💬 Ask me about 💻 programming languages, 🛠️ tech stacks, 🤝 project management, &  teamwork.</br>
 ⚡ Fun fact: 🖌️ I love calligraphy & 🌍 learning new languages! 🗣️ Fluent in 🇦🇷 Arabic, 🇫🇷 French, & 🇬🇧 English. Working on 🇪🇸 German!</br>
+
+<hr>
+📁 Portfolio
+<hr>
