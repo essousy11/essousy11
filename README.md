@@ -16,10 +16,10 @@
 
 <h1><a href="https://essousymohammed.me" style="style-decoration=none" >My Portfolio</a></h1>
 
-
+<h1>👨‍💻Tech stack: </h1>
             
           
-    <img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 150px; width: 150px;">       
+<img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;">       
 
 
 
