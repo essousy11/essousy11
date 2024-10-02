@@ -1,5 +1,7 @@
 
-<img src="https://imgur.com/A9VyeUn" alt="Avatar" style="width:200px">
+<img src="https://i.imgur.com/kLYQZVe.png" alt="Photo" style="height: 150px; width: 150px; display: block; margin-left: auto; margin-right: auto;">
+
+
 
 ## About Me 👋
 
