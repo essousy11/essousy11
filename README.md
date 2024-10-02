@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<img src="https://imgur.com/A9VyeUn" alt="Avatar" style="width:200px">
+
+## About Me 👋
 
 🔭 Leveling up my coding skills with 📚 data structures & algorithms! 🧠</br>
 👯 Let’s build something awesome together! </br>
