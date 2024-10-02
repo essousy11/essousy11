@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🔭 Leveling up my coding skills with 📚 data structures & algorithms! 🧠
-👯 Let’s build something awesome together! 
-🤖 Looking for 🤝 open-source projects in 📱 Android or 🤖 machine learning.
-🤝 Need guidance on ☁️ cloud computing & 🌐 distributed systems.
-🌱 Mastering 📱 Flutter for cross-platform apps. 
-🔭 Exploring 👁️ computer vision & 🗣️ natural language processing.
-💬 Ask me about 💻 programming languages, 🛠️ tech stacks, 🤝 project management, &  teamwork.
-⚡ Fun fact: 🖌️ I love calligraphy & 🌍 learning new languages! 🗣️ Fluent in 🇦🇷 Arabic, 🇫🇷 French, & 🇬🇧 English. Working on 🇪🇸 German!
+🔭 Leveling up my coding skills with 📚 data structures & algorithms! 🧠</br>
+👯 Let’s build something awesome together! </br>
+🤖 Looking for 🤝 open-source projects in 📱 Android or 🤖 machine learning.</br>
+🤝 Need guidance on ☁️ cloud computing & 🌐 distributed systems.</br>
+🌱 Mastering 📱 Flutter for cross-platform apps. </br>
+🔭 Exploring 👁️ computer vision & 🗣️ natural language processing.</br>
+💬 Ask me about 💻 programming languages, 🛠️ tech stacks, 🤝 project management, &  teamwork.</br>
+⚡ Fun fact: 🖌️ I love calligraphy & 🌍 learning new languages! 🗣️ Fluent in 🇦🇷 Arabic, 🇫🇷 French, & 🇬🇧 English. Working on 🇪🇸 German!</br>
