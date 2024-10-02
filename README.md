@@ -17,11 +17,9 @@
 <h1><a href="https://essousymohammed.me" style="style-decoration=none" >My Portfolio</a></h1>
 
 
-            <i class="devicon-angularjs-plain"></i>
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
           
-          
+    <img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 150px; width: 150px;">       
 
 
 
