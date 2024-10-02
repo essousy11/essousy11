@@ -1,11 +1,5 @@
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-<img src="https://i.imgur.com/kLYQZVe.png" alt="Photo" style="height: 150px; width: 150px;" class = "center">
+
+<img src="https://i.imgur.com/kLYQZVe.png" alt="Photo" style="height: 150px; width: 150px;">
 
 
 
