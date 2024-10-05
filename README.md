@@ -56,5 +56,25 @@
 <span><img src="https://i.imgur.com/8sRAT8o.png" alt="Photo" style="height: 50px; width: 50px;"></span>
 <span><img src="https://i.imgur.com/NtYnRBq.png" alt="Photo" style="height: 50px; width: 50px;"></span>
 <span><img src="https://i.imgur.com/7hwdhHE.png" alt="Photo" style="height: 50px; width: 50px;"></span>
-<span><img src="https://i.imgur.com/jkCBkvE.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/jkCBkvE.png" alt="Photo" style="height: 50px; width: 50px;"></span><br>
+
+<h1>🌱 Currently Learning</h1> 
+            <ul>
+              <li>Kubernetes</li>
+              <li>Jenkins</li>
+              <li> Microservices with Spring Boot</li>
+              <li>Cloud computing</li>
+            </ul>  
+
+<h1>📫 How to reach me </h1>
+            <ul>
+              <li>Email : mohammed.essousy0@gmail.com</li>
+              <li> Linkedin : Mohammed Essousy</li>
+              <li>Phone : +212700331749</li>
+            </ul> 
+
+
+
+
+
 
