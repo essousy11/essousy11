@@ -18,12 +18,15 @@
 
 <h1>👨‍💻Tech stack: </h1>
             
-          
-<img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;">       
-<img src="https://i.imgur.com/B0yAMeY.png" alt="Photo" style="height: 50px; width: 50px;">  
+<span><img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;">  </span>
+<span><img src="https://i.imgur.com/B0yAMeY.png" alt="Photo" style="height: 50px; width: 50px;">  </span>
 
-<span><img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;">  </span>
-<span><img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;">  </span>
-<span><img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;">  </span>
-
+<span><img src="https://i.imgur.com/XZMEljd.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/JHYCKYp.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/UdgNc7C.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/uIhKRxb.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/nY6kiCk.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/nbOueG7.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/Fic7gW2.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/19q5ws7.png" alt="Photo" style="height: 50px; width: 50px;"></span>
 
