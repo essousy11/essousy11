@@ -49,3 +49,12 @@
 <span><img src="https://i.imgur.com/j4Z2MRG.png" alt="Photo" style="height: 50px; width: 50px;"></span>
 <span><img src="https://i.imgur.com/B0yAMeY.png" alt="Photo" style="height: 50px; width: 50px;"></span>
 <span><img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/VlXacQZ.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/UDDaYfC.png" alt="Photo" style="height: 50px; width: 50px;"></span><br>
+<span><img src="https://i.imgur.com/lcb96NM.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/JSt0Ord.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/8sRAT8o.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/NtYnRBq.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/7hwdhHE.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/jkCBkvE.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+
