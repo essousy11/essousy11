@@ -18,8 +18,8 @@
 
 <h1>👨‍💻Tech stack: </h1>
             
-<span><img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;">  </span>
-<span><img src="https://i.imgur.com/B0yAMeY.png" alt="Photo" style="height: 50px; width: 50px;">  </span>
+<span><img src="https://i.imgur.com/UYhEwls.png" alt="Photo" style="height: 50px; width: 50px;"></span>
+<span><img src="https://i.imgur.com/B0yAMeY.png" alt="Photo" style="height: 50px; width: 50px;"></span>
 
 <span><img src="https://i.imgur.com/XZMEljd.png" alt="Photo" style="height: 50px; width: 50px;"></span>
 <span><img src="https://i.imgur.com/JHYCKYp.png" alt="Photo" style="height: 50px; width: 50px;"></span>
